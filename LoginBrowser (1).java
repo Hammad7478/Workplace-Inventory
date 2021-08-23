@@ -1,9 +1,3 @@
-// ICS 4U1
-// LoginBrowser/StoreInventory
-// Written by: Hammad Rehman
-// Written for: Mrs. Ganesan
-//Due Date: April 12, 2021
-//Submission Date: April 11, 2021
 //This program first outputs a Login Browser which allows the user to login using their name and given password.
 //The user have to establish whether they are a supervisor or an employee. Supervisors have access to Employee Records.
 //Both Employees and Supervisors can access the Store Inventory which outputs all the items in a store. The user can
